@@ -1,0 +1,1 @@
+# Sin dependencias externas: utiliza tkinter, sqlite3 y otros módulos estándar de Python.
